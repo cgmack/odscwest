@@ -1,0 +1,31 @@
+#######################
+# General Files
+#######################
+# *.class
+*.classpath
+.DS_Store
+*.jar
+*.war
+*.ear
+#######################
+# IDE Files
+#######################
+*.project
+*.settings
+*.springBeans
+.idea/*
+*.iml
+#######################
+# Build Directories
+#######################
+target
+bin
+#######################
+# Files Set Per Install
+#######################
+src/main/resources/rosette/rlp-license.xml
+src/main/resources/config.properties
+#######################
+# Output/Data Folders
+#######################
+output
