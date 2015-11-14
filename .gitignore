@@ -20,6 +20,7 @@
 #######################
 target
 bin
+.ipynb_checkpoints
 #######################
 # Files Set Per Install
 #######################
